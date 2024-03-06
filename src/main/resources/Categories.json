@@ -1,0 +1,141 @@
+[ {
+  "id" : 45,
+  "name" : "Taxes",
+  "descriptions" : [ ],
+  "splitwiseId" : 45
+}, {
+  "id" : 47,
+  "name" : "Hotel",
+  "descriptions" : [ "airbnb", "EXPEDIA" ],
+  "splitwiseId" : 47
+}, {
+  "id" : 49,
+  "name" : "Education",
+  "descriptions" : [ "HCMINTERNATIONAL LANG" ],
+  "splitwiseId" : 49
+}, {
+  "id" : 10,
+  "name" : "Insurance",
+  "descriptions" : [ ],
+  "splitwiseId" : 10
+}, {
+  "id" : 32,
+  "name" : "Bus/train",
+  "descriptions" : [ "PRESTO MOBL", "PRESTO COLLEGE STN" ],
+  "splitwiseId" : 32
+}, {
+  "id" : 11,
+  "name" : "Other",
+  "descriptions" : [ "NBXPOWERYOGACANADA" ],
+  "splitwiseId" : 11
+}, {
+  "id" : 33,
+  "name" : "Gas/fuel",
+  "descriptions" : [ ],
+  "splitwiseId" : 33
+}, {
+  "id" : 12,
+  "name" : "Groceries",
+  "descriptions" : [ "FOOD WORLD","FORTINOS", "nofrills", "NO FRILLS","NOFRILLS", "WALMART", "panchavati", "SHOPPERS DRUG MART", "FARM BOY", "LOBLAWS", "JOHN  DANIELLES NO F", "BLOOR VILLAGE FLOWERS", "COBS BREAD", "SOBEYS", "AISLE  TIPPETT", "dollar tree", "BULK BARN", "SQ CLOUDFOREST COFFEE", "WHOLE FOODS MARKET", "OZZY FOOD", "LCBORAO", "BREAD  ROSES BAKERY C", "SUNNY" ],
+  "splitwiseId" : 12
+}, {
+  "id" : 101,
+  "name" : "Casual Beverage",
+  "descriptions" : [ "LE GOURMAND BROOKFIELD", "EVERYDAY BISTRO", "TIM HORTONS", "yummy", "STARBUCKS", "HI YOGURT", "MYUNGRANG HOTDOG", "LE PETIT DEP ST SULPIC", "LE MAGASIN STEMADELEI", "AU  PLAISIRS ET SA", "LA MAISON SMITH SAINT", "SPAQ  CHAUVEAU", "SQ LES CREATIONS FLEU", "PASTA SI", "PAILLARD ST JEAN", "SQ FENDEL  LILO", "SAQ LE GRAND MAR", "STAT VILLE DE QCCOPIL", "BOUTIQUE MARYS POPCOR", "SQ THE GOLDEN POTATO", "SP ALICJACONFECTIONS", "DSPOT DESSERT CAFFE QU", "FOODTRUCKM", "DISTILLERY RESTAURANTS" ],
+  "splitwiseId" : 13
+}, {
+  "id" : 13,
+  "name" : "Dining out",
+  "descriptions" : [ "SWEET MAHAL","DOSA TWIST", "Azhar", "HAKKA KHAZANA", "STORENORTH OF BROOKLY", "SILVER CHOPSTICKS", "CHINESE GOURMET EXPRES", "KINTON RAMEN", "UBER", "Subway", "ONROUTE", "SAQ ESTIMAUVILLE", "PUB STALEXANDRE", "DEPANNEUR P BEDARD", "ubereats", "WALLYS GRILL", "SOMUN SUPERSTAR" ],
+  "splitwiseId" : 13
+}, {
+  "id" : 35,
+  "name" : "Plane",
+  "descriptions" : [ ],
+  "splitwiseId" : 35
+}, {
+  "id" : 14,
+  "name" : "Household supplies",
+  "descriptions" : [ "amazonca", "DOLLARAMA", "VALUE VILLAGE", "THE HOME DEPOT" ],
+  "splitwiseId" : 14
+}, {
+  "id" : 36,
+  "name" : "Taxi",
+  "descriptions" : [ ],
+  "splitwiseId" : 36
+}, {
+  "id" : 15,
+  "name" : "Car",
+  "descriptions" : [ "MOBIL","PIONEER", "TORONTO PARKING AUTHOR", "ESSO CIRCLE K", "KIPLING SELF CAR WASH", "ULTRAMAR", "SPENCERVILLE HUSKY", "PETROCAN", "CDN TIRE GASBAR", "KAL TIRE  TORONTO", "WOODBINE TOYOTA" ],
+  "splitwiseId" : 15
+}, {
+  "id" : 16,
+  "name" : "Furniture",
+  "descriptions" : [ ],
+  "splitwiseId" : 16
+}, {
+  "id" : 39,
+  "name" : "Electronics",
+  "descriptions" : [ ],
+  "splitwiseId" : 39
+}, {
+  "id" : 18,
+  "name" : "General",
+  "descriptions" : [ ],
+  "splitwiseId" : 18
+}, {
+  "id" : 100,
+  "name" : "Personal",
+  "descriptions" : [ "Spotify", "GOOGLE", "SHOE COMPANY", "OLD NAVY CANADA", "MARKS", "BURRITO BOYZ", "NELLA CUTLERY", "COOKERY B", "Spotify", "AMZN Mktp CAUWJNVS", "LYFT", "DELOITTE CAFE" ],
+  "splitwiseId" : 18
+}, {
+  "id" : 3,
+  "name" : "Rent",
+  "descriptions" : [ ],
+  "splitwiseId" : 3
+}, {
+  "id" : 5,
+  "name" : "Electricity",
+  "descriptions" : [ ],
+  "splitwiseId" : 5
+}, {
+  "id" : 6,
+  "name" : "Heat/gas",
+  "descriptions" : [ ],
+  "splitwiseId" : 6
+}, {
+  "id" : 7,
+  "name" : "Water",
+  "descriptions" : [ ],
+  "splitwiseId" : 7
+}, {
+  "id" : 8,
+  "name" : "TV/Phone/Internet",
+  "descriptions" : [ "fido", "FIDO Mobile" ],
+  "splitwiseId" : 8
+}, {
+  "id" : 9,
+  "name" : "Parking",
+  "descriptions" : [ ],
+  "splitwiseId" : 9
+}, {
+  "id" : 41,
+  "name" : "Clothing",
+  "descriptions" : [ ],
+  "splitwiseId" : 41
+}, {
+  "id" : 42,
+  "name" : "Gifts",
+  "descriptions" : [ "SAY TEA LIMITED", "WINTER VILLAGE" ],
+  "splitwiseId" : 42
+}, {
+  "id" : 21,
+  "name" : "Movies",
+  "descriptions" : [ "TICKETPROCA", "CINEPLEX" ],
+  "splitwiseId" : 21
+}, {
+  "id" : 43,
+  "name" : "Medical expenses",
+  "descriptions" : [ "woodbine pharmacy" ],
+  "splitwiseId" : 43
+} ]
